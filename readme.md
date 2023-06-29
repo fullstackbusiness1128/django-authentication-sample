@@ -1,4 +1,4 @@
-## [Example django authentication](https://github.com/flavien-hugs/dj-exmaple-authentication.git)
+## django-authentication-sample
 
 [![Django Version](https://img.shields.io/badge/Django-Version3-success.svg)](https://www.djangoproject.com)
 [![Python Version](https://img.shields.io/badge/Python-3.6-brightgreen.svg)](https://www.python.com)
