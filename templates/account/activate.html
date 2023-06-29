@@ -1,0 +1,7 @@
+{% autoescape off %}
+Hello
+{{ user.email }},
+
+veuillez cliquer sur ce lien ci-dessous pour vérifier votre compte
+{{ scheme }}://{{ domain }}{% url 'account:activate' uidb64=uuid token=token %}
+{% endautoescape %}
